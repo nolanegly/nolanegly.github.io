@@ -1,2 +1,2 @@
-# Nolan Egly
-Future site for Nolan Egly's blog - stay tuned!
+# First post
+There's nothing interesting here yet, I'm just getting the basic template and styling in place. I'm working on my first real post, which is about how to deal with concurrency conflicts with the EF Core library. If you're working on a web app, the default approach recommended by the EF Core team is not going to be sufficient protection for you. Stay tuned, I've got a technique that will help you!
