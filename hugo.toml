@@ -1,0 +1,4 @@
+baseURL = 'https://www.nolanegly.com'
+languageCode = 'en-us'
+title = 'Nolan Egly'
+theme = 'ananke'
